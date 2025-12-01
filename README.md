@@ -20,5 +20,5 @@ Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pdf-adjective-extractor.git
+git clone https://github.com/binodbabu-paudel/pdf-adjective-extractor.git
 cd pdf-adjective-extractor
